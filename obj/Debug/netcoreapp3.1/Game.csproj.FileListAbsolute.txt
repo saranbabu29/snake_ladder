@@ -1,0 +1,14 @@
+C:\Users\bagav\saran\visual studio\snake_ladder\Game\obj\Debug\netcoreapp3.1\Game.csproj.AssemblyReference.cache
+C:\Users\bagav\saran\visual studio\snake_ladder\Game\obj\Debug\netcoreapp3.1\Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bagav\saran\visual studio\snake_ladder\Game\obj\Debug\netcoreapp3.1\Game.AssemblyInfoInputs.cache
+C:\Users\bagav\saran\visual studio\snake_ladder\Game\obj\Debug\netcoreapp3.1\Game.AssemblyInfo.cs
+C:\Users\bagav\saran\visual studio\snake_ladder\Game\obj\Debug\netcoreapp3.1\Game.csproj.CoreCompileInputs.cache
+C:\Users\bagav\saran\visual studio\snake_ladder\Game\bin\Debug\netcoreapp3.1\Game.exe
+C:\Users\bagav\saran\visual studio\snake_ladder\Game\bin\Debug\netcoreapp3.1\Game.deps.json
+C:\Users\bagav\saran\visual studio\snake_ladder\Game\bin\Debug\netcoreapp3.1\Game.runtimeconfig.json
+C:\Users\bagav\saran\visual studio\snake_ladder\Game\bin\Debug\netcoreapp3.1\Game.runtimeconfig.dev.json
+C:\Users\bagav\saran\visual studio\snake_ladder\Game\bin\Debug\netcoreapp3.1\Game.dll
+C:\Users\bagav\saran\visual studio\snake_ladder\Game\bin\Debug\netcoreapp3.1\Game.pdb
+C:\Users\bagav\saran\visual studio\snake_ladder\Game\obj\Debug\netcoreapp3.1\Game.dll
+C:\Users\bagav\saran\visual studio\snake_ladder\Game\obj\Debug\netcoreapp3.1\Game.pdb
+C:\Users\bagav\saran\visual studio\snake_ladder\Game\obj\Debug\netcoreapp3.1\Game.genruntimeconfig.cache
