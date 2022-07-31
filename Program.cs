@@ -10,6 +10,7 @@ namespace Game
             Console.WriteLine("Welcome to Snake and Ladder");
             int pos = 0;
             int position;
+            int j = 0;
             Console.WriteLine("Player position is " + pos);
 
             for ( pos = 0; pos < 100;)
@@ -39,13 +40,15 @@ namespace Game
                     Console.WriteLine("You got a snake bite and now you are moved to 22");
                 }
                 pos = position;
+                j++;
                 if(pos>100)
                 {
                     pos = 100;
                 }
 
             }
-            Console.WriteLine("The player Won the game");
+            Console.WriteLine("The player Won the game!!! ");
+            Console.WriteLine("The Dice Count is " + j);
         }
     }
 }
