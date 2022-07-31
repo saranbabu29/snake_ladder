@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bagav\\saran\\visual studio\\snake_ladder\\Game\\Game.csproj",
+      "projectUniqueName": "C:\\Users\\bagav\\saran\\visual studio\\snake_ladder\\Game_SnakeAndLadder\\Game.csproj",
       "projectName": "Game",
-      "projectPath": "C:\\Users\\bagav\\saran\\visual studio\\snake_ladder\\Game\\Game.csproj",
+      "projectPath": "C:\\Users\\bagav\\saran\\visual studio\\snake_ladder\\Game_SnakeAndLadder\\Game.csproj",
       "packagesPath": "C:\\Users\\bagav\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bagav\\saran\\visual studio\\snake_ladder\\Game\\obj\\",
+      "outputPath": "C:\\Users\\bagav\\saran\\visual studio\\snake_ladder\\Game_SnakeAndLadder\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bagav\\AppData\\Roaming\\NuGet\\NuGet.Config",
