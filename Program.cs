@@ -12,13 +12,10 @@ namespace Game
             int position;
             Console.WriteLine("Player position is " + pos);
 
-            for ( pos = 0; pos <= 100;)
+            for ( pos = 0; pos < 100;)
             {
                 Random random = new Random();
                 int value = random.Next(1, 7);
-
-
-                Console.WriteLine("The dice Value is " + value);
                 position = value + pos;
                 Console.WriteLine(" After the Dice roll, The position is " + position);
                 if((position==19)) //ladder for 19 to 48
@@ -42,7 +39,13 @@ namespace Game
                     Console.WriteLine("You got a snake bite and now you are moved to 22");
                 }
                 pos = position;
+                if(pos>100)
+                {
+                    pos = 100;
+                }
+
             }
+            Console.WriteLine("The player Won the game");
         }
     }
 }
